@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/read.mjs": {
+      "maxDuration": 30
+    }
+  }
+}
